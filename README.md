@@ -2,4 +2,4 @@
 
 Hello, I made some changes
 
-I made some changes in the local branch now
+I made some quick changes now
